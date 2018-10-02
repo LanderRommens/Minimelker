@@ -1,2 +1,2 @@
-# Minimelker
-Dit is een kleine melkmachine geschikt voor één koe. 
+# Melkmachine
+Dit is een kleine melkmachine geschikt voor één koe, genaamd de minimelker. 
